@@ -1,4 +1,4 @@
-# credits: SNAPDRAGON (@s_n_a_p_s)
+# credits: SNAPDRAGON (@Denzid)
 from telethon import events
 import subprocess
 import os
